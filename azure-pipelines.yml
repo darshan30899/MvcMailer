@@ -8,7 +8,7 @@ trigger:
 
 pool:
   name: linux-agent
-  vmImage: 'linux-agent'
+  vmImage: linux-agent
 
 variables:
   solution: '**/*.sln'
